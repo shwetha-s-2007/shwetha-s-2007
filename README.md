@@ -55,10 +55,6 @@ Project descriptions will be updated as I implement and test each project.
 - Participate in hackathons and open-source collaboration.
 - Develop projects that demonstrate practical engineering skills.
 
-✨ My Philosophy
-
-«Don't just learn how technology works. Learn how to use it to make something meaningful.»
-
 I'm at the beginning of my journey, and I'm excited to keep learning, building, experimenting, and improving one project at a time.
 
 Thanks for visiting my profile! 🚀
