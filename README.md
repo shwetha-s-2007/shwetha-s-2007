@@ -1,7 +1,7 @@
 
 Hi, I'm Shwetha S. 👋
 
-Fresher|Computer Science and Engineering Student 
+Fresher|Computer Science and Engineering Student|Chennai Institute of Technology|
 
 I'm an engineering student passionate about programming, artificial intelligence, robotics, and building technology that solves real-world problems.
 
